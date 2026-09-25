@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nickyit/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/Nickyit/Leetcode/tree/master/0344-reverse-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/Nickyit/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nickyit/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nickyit/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Nickyit/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

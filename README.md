@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nickyit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nickyit/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Nickyit/Leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Nickyit/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Nickyit/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Nickyit/Leetcode/tree/master/0912-sort-an-array) |
@@ -49,6 +50,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Nickyit/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Nickyit/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Nickyit/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Nickyit/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -64,6 +66,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Nickyit/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Nickyit/Leetcode/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |

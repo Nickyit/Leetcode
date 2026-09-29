@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/Nickyit/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Nickyit/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Nickyit/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/Nickyit/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nickyit/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Nickyit/Leetcode/tree/master/0912-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Nickyit/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

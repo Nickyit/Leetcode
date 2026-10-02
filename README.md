@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Nickyit/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Nickyit/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Nickyit/Leetcode/tree/master/0268-missing-number) |
 ## Simulation
@@ -49,6 +50,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nickyit/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nickyit/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Nickyit/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Nickyit/Leetcode/tree/master/0344-reverse-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/Nickyit/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nickyit/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -75,6 +77,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Nickyit/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Nickyit/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nickyit/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nickyit/Leetcode/tree/master/0268-missing-number) |
@@ -107,4 +110,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nickyit/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Nickyit/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

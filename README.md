@@ -77,6 +77,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Nickyit/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nickyit/Leetcode/tree/master/0344-reverse-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Nickyit/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0217-contains-duplicate](https://github.com/Nickyit/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nickyit/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nickyit/Leetcode/tree/master/0268-missing-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Nickyit/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

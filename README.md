@@ -79,6 +79,7 @@
 | [0344-reverse-string](https://github.com/Nickyit/Leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Nickyit/Leetcode/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nickyit/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3019-number-of-changing-keys](https://github.com/Nickyit/Leetcode/tree/master/3019-number-of-changing-keys) |
 ## Hash Table
 |  |
 | ------- |

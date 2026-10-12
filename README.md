@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nickyit/Leetcode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Nickyit/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Nickyit/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nickyit/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Nickyit/Leetcode/tree/master/0189-rotate-array) |
@@ -71,6 +72,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Nickyit/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nickyit/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Nickyit/Leetcode/tree/master/0268-missing-number) |
 ## String
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Nickyit/Leetcode/tree/master/0202-happy-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Nickyit/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

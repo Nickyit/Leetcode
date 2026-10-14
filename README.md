@@ -30,6 +30,7 @@
 | [0202-happy-number](https://github.com/Nickyit/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Nickyit/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Nickyit/Leetcode/tree/master/0268-missing-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Nickyit/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
 | ------- |

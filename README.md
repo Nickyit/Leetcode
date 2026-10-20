@@ -18,6 +18,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Nickyit/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nickyit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nickyit/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nickyit/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nickyit/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -89,6 +90,7 @@
 | [0344-reverse-string](https://github.com/Nickyit/Leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Nickyit/Leetcode/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nickyit/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nickyit/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3019-number-of-changing-keys](https://github.com/Nickyit/Leetcode/tree/master/3019-number-of-changing-keys) |
 ## Hash Table
 |  |

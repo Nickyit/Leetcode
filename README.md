@@ -23,6 +23,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nickyit/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nickyit/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Nickyit/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/Nickyit/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0709-to-lower-case](https://github.com/Nickyit/Leetcode/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nickyit/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nickyit/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/Nickyit/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Nickyit/Leetcode/tree/master/3019-number-of-changing-keys) |
 ## Hash Table
 |  |

@@ -14,6 +14,7 @@
 | [0260-single-number-iii](https://github.com/Nickyit/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Nickyit/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Nickyit/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Nickyit/Leetcode/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/Nickyit/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Nickyit/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nickyit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nickyit/Leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Nickyit/Leetcode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nickyit/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Nickyit/Leetcode/tree/master/0175-combine-two-tables) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Nickyit/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

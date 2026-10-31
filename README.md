@@ -40,6 +40,7 @@
 | [0202-happy-number](https://github.com/Nickyit/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Nickyit/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Nickyit/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Nickyit/Leetcode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Nickyit/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nickyit/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Nickyit/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nickyit/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Nickyit/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Nickyit/Leetcode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nickyit/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
@@ -98,6 +100,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Nickyit/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nickyit/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Nickyit/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Nickyit/Leetcode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Nickyit/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nickyit/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |

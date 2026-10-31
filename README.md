@@ -99,6 +99,7 @@
 | [0242-valid-anagram](https://github.com/Nickyit/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nickyit/Leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Nickyit/Leetcode/tree/master/0709-to-lower-case) |
+| [1108-defanging-an-ip-address](https://github.com/Nickyit/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nickyit/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nickyit/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Nickyit/Leetcode/tree/master/2942-find-words-containing-character) |

@@ -28,6 +28,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nickyit/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Nickyit/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Nickyit/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3024-type-of-triangle](https://github.com/Nickyit/Leetcode/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/Nickyit/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Nickyit/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nickyit/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3024-type-of-triangle](https://github.com/Nickyit/Leetcode/tree/master/3024-type-of-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0912-sort-an-array](https://github.com/Nickyit/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Nickyit/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nickyit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3024-type-of-triangle](https://github.com/Nickyit/Leetcode/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,4 +169,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Nickyit/Leetcode/tree/master/0682-baseball-game) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Nickyit/Leetcode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->

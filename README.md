@@ -106,6 +106,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nickyit/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Nickyit/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Nickyit/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nickyit/Leetcode/tree/master/0344-reverse-string) |
@@ -172,9 +173,14 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nickyit/Leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Nickyit/Leetcode/tree/master/0682-baseball-game) |
 ## Polygons
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Nickyit/Leetcode/tree/master/3024-type-of-triangle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nickyit/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -110,6 +110,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nickyit/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Nickyit/Leetcode/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/Nickyit/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nickyit/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nickyit/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Nickyit/Leetcode/tree/master/0412-fizz-buzz) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Nickyit/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Nickyit/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Nickyit/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nickyit/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nickyit/Leetcode/tree/master/0268-missing-number) |

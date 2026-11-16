@@ -61,6 +61,7 @@
 | [0258-add-digits](https://github.com/Nickyit/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Nickyit/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Nickyit/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Nickyit/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nickyit/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
@@ -85,6 +86,7 @@
 | [0189-rotate-array](https://github.com/Nickyit/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nickyit/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Nickyit/Leetcode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Nickyit/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/Nickyit/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nickyit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nickyit/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -116,6 +118,7 @@
 | [0344-reverse-string](https://github.com/Nickyit/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Nickyit/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Nickyit/Leetcode/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/Nickyit/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Nickyit/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nickyit/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nickyit/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -181,6 +184,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nickyit/Leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Nickyit/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Nickyit/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Polygons
 |  |
 | ------- |

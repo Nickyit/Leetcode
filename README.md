@@ -25,6 +25,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Nickyit/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/Nickyit/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Nickyit/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1991-find-the-middle-index-in-array](https://github.com/Nickyit/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nickyit/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nickyit/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nickyit/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -162,6 +163,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Nickyit/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Nickyit/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Nickyit/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Nickyit/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Quickselect
 |  |
 | ------- |

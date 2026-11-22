@@ -20,6 +20,7 @@
 | [0724-find-pivot-index](https://github.com/Nickyit/Leetcode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Nickyit/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Nickyit/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0941-valid-mountain-array](https://github.com/Nickyit/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nickyit/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Nickyit/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/Nickyit/Leetcode/tree/master/1480-running-sum-of-1d-array) |

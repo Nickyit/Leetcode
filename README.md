@@ -56,6 +56,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Nickyit/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nickyit/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/Nickyit/Leetcode/tree/master/3024-type-of-triangle) |
+| [3360-stone-removal-game](https://github.com/Nickyit/Leetcode/tree/master/3360-stone-removal-game) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0682-baseball-game](https://github.com/Nickyit/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Nickyit/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nickyit/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3360-stone-removal-game](https://github.com/Nickyit/Leetcode/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
